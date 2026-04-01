@@ -1,0 +1,459 @@
+*************************************************************
+FileName = Sidepanel_Gen4_V1a.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Sidepanel_Gen4_V1a_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mid-Top Layer
+      File : Sidepanel_Gen4_V1a_Copper_Signal_1.gbr
+
+    Adding Layer      : Mid-Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mid-Bottom Layer
+      File : Sidepanel_Gen4_V1a_Copper_Signal_2.gbr
+
+    Adding Layer      : Mid-Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Sidepanel_Gen4_V1a_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Sidepanel_Gen4_V1a_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Sidepanel_Gen4_V1a_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Sidepanel_Gen4_V1a_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Sidepanel_Gen4_V1a_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Sidepanel_Gen4_V1a_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Sidepanel_Gen4_V1a_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Sidepanel_Gen4_V1a_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Sidepanel_Gen4_V1a_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Sidepanel_Gen4_V1a_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Sidepanel_Gen4_V1a_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Sidepanel_Gen4_V1a_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Sidepanel_Gen4_V1a_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : Sidepanel_Gen4_V1a_Mechanical_20.gbr
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Sidepanel_Gen4_V1a_Profile.gbr
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Sidepanel_Gen4_V1a_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Sidepanel_Gen4_V1a_PTH_Drill.gbr
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : Sidepanel_Gen4_V1a_Plated_Drill_1_2.gbr
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : Sidepanel_Gen4_V1a_Plated_Drill_1_3.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : Sidepanel_Gen4_V1a_Plated_Drill_2_3.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : Sidepanel_Gen4_V1a_Plated_Drill_2_4.gbr
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : Sidepanel_Gen4_V1a_Plated_Drill_3_4.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Sidepanel_Gen4_V1a_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Sidepanel_Gen4_V1a_Drawing_2.gbr
+
+    Adding Drill Pair : Top Layer-Mid-Top Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Sidepanel_Gen4_V1a_Drawing_3.gbr
+
+    Adding Drill Pair : Top Layer-Mid-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Sidepanel_Gen4_V1a_Drawing_4.gbr
+
+    Adding Drill Pair : Mid-Top Layer-Mid-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Sidepanel_Gen4_V1a_Drawing_5.gbr
+
+    Adding Drill Pair : Mid-Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Sidepanel_Gen4_V1a_Drawing_6.gbr
+
+    Adding Drill Pair : Mid-Bottom Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Sidepanel_Gen4_V1a_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Sidepanel_Gen4_V1a_Drillmap_2.gbr
+
+    Adding Drill Pair : Top Layer-Mid-Top Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Sidepanel_Gen4_V1a_Drillmap_3.gbr
+
+    Adding Drill Pair : Top Layer-Mid-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Sidepanel_Gen4_V1a_Drillmap_4.gbr
+
+    Adding Drill Pair : Mid-Top Layer-Mid-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Sidepanel_Gen4_V1a_Drillmap_5.gbr
+
+    Adding Drill Pair : Mid-Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Sidepanel_Gen4_V1a_Drillmap_6.gbr
+
+    Adding Drill Pair : Mid-Bottom Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
