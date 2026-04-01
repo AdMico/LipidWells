@@ -1,5 +1,5 @@
-﻿
+# LipidWells v1.0.0 (Updated 01APR26 APM)
 
-Generic
+**Written by:** Adam Micolich
 
-> Written with [StackEdit](https://stackedit.io/).
+## Contents of the *Photomasks* folder
