@@ -34,7 +34,7 @@ A photograph of a fully assembled MUXBox can be found in the *PCBs & Schematics*
 
 ## Contents of the *Stage Parts* folder
 
-This folder has CNC-ready STEP files for all the various components for mounting one of our OECT-coverslips onto a fluorescence microscope. The components are designed for one of two microscope stages. The first is the Marzhauser Wetzlar SCAN IM 120 x 88 stage. The second is the Mad City Labs <insert specs> stage. We use the latter on our current microscope configuration. The various files are as follows:
+This folder has CNC-ready STEP files for all the various components for mounting one of our OECT-coverslips onto a fluorescence microscope. The components are designed for one of two microscope stages. The first is the Marzhauser Wetzlar SCAN IM 120 x 88 stage. The second is the Mad City Labs uS-2308 stage. We use the latter on our current microscope configuration. The various files are as follows:
 
 `Stage_Assy_1.jpeg`: Photograph of the stage assembly with one of the two stages, the Baseplate and the Pinplate shown. The various PCBs and spring-pins are assembled onto the Pinplate.
 
@@ -44,7 +44,7 @@ This folder has CNC-ready STEP files for all the various components for mounting
 
 `Marzhauser_Stage_Gen4_V1-Body.step`: CNC-ready file for an adaptor plate to mount our Baseplate for supporting the rest of the assembly on a Marzhauser Wetzlar SCAN IM 120 x 80 microscope stage.
 
-`MCL_Stage_Gen4_V1-Body.step`: CNC-ready file for an adaptor plate to mount our Baseplate for supporting the rest of the assembly on a Mad City Labs <insert specs> microscope stage.
+`MCL_Stage_Gen4_V1-Body.step`: CNC-ready file for an adaptor plate to mount our Baseplate for supporting the rest of the assembly on a Mad City Labs uS-2308 microscope stage.
 
 `Baseplate_Gen4_V1-Body.step`: CNC-ready file for the Baseplate, which fits into either the Marzhauser stage plate or the Mad City Labs stage plate, and features the cut-out for the coverslip to be positioned into. The four vertical posts are for bolting down the Pinplate assembly.
 
