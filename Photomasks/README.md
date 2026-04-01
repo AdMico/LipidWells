@@ -4,7 +4,15 @@
 
 ## Contents of the *Photomasks* folder
 
-The *Photomasks* folder has 5 compressed RAR files containing the GDSII files for producing the photomasks used in this project. The details of the files are as follows:
+There is only a PDF file `Photomask Details.pdf`, which is an extract from Shuji Kojima's Ph.D. thesis that helps with understanding the design and layout of the mask set.
+
+Due to the large files involved, the photomask GDSII files are available instead as a release asset here: https://github.com/AdMico/LipidWells/releases/tag/Photomasks
+
+The release is a 238MB download, and the files require a suitable GDSII viewer, such as KLayout.
+
+## Contents of the *Photomasks* release
+
+The *Photomasks* release has 5 compressed RAR files containing the GDSII files for producing the photomasks used in this project. The details of the files are as follows:
 
 `LipidWells Mask - Metal.gds`: This contains the first of the three masks used to make the OECT devices. This mask defines all the metallized parts of the device including the source and drain contacts, interconnects, and the various alignment markers for both subsequent photolithography steps as well as positioning of the glass block used to make the flow-cell. It is designed for use with a positive-tone resist such as Microchem's ECI-3012. Contrast = mostly metal, filled areas are transparent.
 
@@ -18,4 +26,4 @@ The *Photomasks* folder has 5 compressed RAR files containing the GDSII files fo
 
 All masks are 4" soda-lime glass with the contrast specified as above, with chrome side down.
 
-Note: The file `LipidWells Mask - Wells.gds` is extremely large (nearly 1GB in size).
+Note: The file `LipidWells Mask - Wells.gds` is extremely large when uncompressed (nearly 1GB in size).
