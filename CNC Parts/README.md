@@ -42,7 +42,7 @@ This folder has CNC-ready STEP files for all the various components for mounting
 
 `Stage_Assy_3.jpeg`: Photograph above with the addition of the five components of the top cover assembled. The two ribbon cables feed through the slots in the cover provided.
 
-`Marzhauser_Stage_Gen4_V1-Body.step`: CNC-ready file for an adaptor plate to mount our Baseplate for supporting the rest of the assembly on a Marzhauser Wetzlar SCAN IM 120 x 80 microscope stage.
+`Marzhauser_Stage_Gen4_V1-Body.step`: CNC-ready file for an adaptor plate to mount our Baseplate for supporting the rest of the assembly on a Marzhauser Wetzlar SCAN IM 120 x 100 microscope stage.
 
 `MCL_Stage_Gen4_V1-Body.step`: CNC-ready file for an adaptor plate to mount our Baseplate for supporting the rest of the assembly on a Mad City Labs uS-2308 microscope stage.
 
